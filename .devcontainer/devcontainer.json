@@ -17,7 +17,6 @@
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {},
 		"ghcr.io/devcontainers/features/php:1": {},
-		"ghcr.io/devcontainers-contrib/features/apt-packages:1": {},
 		"ghcr.io/devcontainers-contrib/features/npm-package:1": {}
 	}
 
